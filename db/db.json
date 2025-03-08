@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Seval Kodi",
+      "singer": "Various Artist",
+      "genre": "Devotional",
+      "imgUrl": "https://i.pinimg.com/originals/c4/ff/c0/c4ffc08d8d41bf1416a78e5ea2b734f5.jpg",
+      "songUrl": "Songs/seval kodi.mpeg"
+    },
+    {
+      "id": "2",
+      "title": "Kadhaippoma",
+      "singer": "Sid SriRam",
+      "genre": "Friendship",
+      "imgUrl": "https://i.ytimg.com/vi/rYQmOfM_eU8/maxresdefault.jpg",
+      "songUrl": "Songs/Kadhaippoma.mpeg"
+    },
+    {
+      "id": "3",
+      "title": "Kannamma",
+      "singer": "Predeep Kumar, Dhee, Ananthu",
+      "genre": "Romantic",
+      "imgUrl": "https://th.bing.com/th/id/OIP.JeLJlmiQNSdRjimG7RiHdgHaEK?rs=1&pid=ImgDetMain",
+      "songUrl": "Songs/kannama.mpeg"
+    },
+    {
+      "id": "4",
+      "title": "Chillanjirukkiye",
+      "singer": "Pradeep kumar, Shivangi",
+      "genre": "Love Songs",
+      "imgUrl": "https://c.saavncdn.com/230/Lubber-Pandhu-Original-Motion-Picture-Soundtrack-Tamil-2024-20240828151816-500x500.jpg",
+      "songUrl": "Songs/chillenjiruke.mpeg"
+    },
+    {
+      "id": "5",
+      "title": "Vazhithunaiyee",
+      "singer": "Sid SriRam",
+      "genre": "Love Songs",
+      "imgUrl": "https://th.bing.com/th/id/OIP.TYzEdeJkwoNTnHIcpZM1zAHaEK?rs=1&pid=ImgDetMain",
+      "songUrl": "Songs/vazhithunaiye.mpeg"
+    },
+    {
+      "id": "6",
+      "title": "venmegam pennaga",
+      "singer": "Hariharan",
+      "genre": "Emotional",
+      "imgUrl": "https://th.bing.com/th/id/R.74f7b925aeaf1b8084971e355c609712?rik=p6Jh1mYMn0nG1A&riu=http%3a%2f%2fmimgs.sulekha.com%2ftamil%2fyaaradi-nee-mohini%2fimages%2fwallpaper%2f1024-768%2fyaaradi-nee-mohini102403.jpg&ehk=oFaoOApvCwBQNqggtfCMlpuIKdGOY54c4MW7hovmiik%3d&risl=&pid=ImgRaw&r=0",
+      "songUrl": "Songs/Tum Hi Ho.mpeg"
+    },
+    {
+      "id": "7",
+      "title": "Pirai Thedum Travile",
+      "singer": "G.V. Prakash Kumar, Saindhavi",
+      "genre": "Emotional",
+      "imgUrl": "https://i.ytimg.com/vi/cZYT6UBg4EU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgVSgvMA8=&rs=AOn4CLB4XPkfh3RuyoVwIDgp_eNiXaYjWQ",
+      "songUrl": "Songs/pirai thedum.mpeg"
+    },
+    {
+      "id": "8",
+      "title": "Unnai Kaanadhu Naan",
+      "singer": "Kamal Hassan, Sankar Mahadev",
+      "genre": "Love Songs",
+      "imgUrl": "https://i.pinimg.com/736x/40/3f/2c/403f2c298d2ca22073ea784b8b5fb0ee.jpg",
+      "songUrl": "Songs/unnai kannadhu.mpeg"
+    }
+  ],
+  "favorities": [
+    {
+      "id": "5a2e",
+      "itemId": "2",
+      "title": "Kadhaippoma",
+      "imgUrl": "https://i.ytimg.com/vi/rYQmOfM_eU8/maxresdefault.jpg",
+      "genre": "Friendship",
+      "songUrl": "Songs/Kadhaippoma.mpeg",
+      "singer": "Sid SriRam"
+    }
+  ],
+  "playlist": [
+    {
+      "id": "0cdf",
+      "itemId": "6",
+      "title": "venmegam pennaga",
+      "imgUrl": "https://th.bing.com/th/id/R.74f7b925aeaf1b8084971e355c609712?rik=p6Jh1mYMn0nG1A&riu=http%3a%2f%2fmimgs.sulekha.com%2ftamil%2fyaaradi-nee-mohini%2fimages%2fwallpaper%2f1024-768%2fyaaradi-nee-mohini102403.jpg&ehk=oFaoOApvCwBQNqggtfCMlpuIKdGOY54c4MW7hovmiik%3d&risl=&pid=ImgRaw&r=0",
+      "genre": "Emotional",
+      "songUrl": "Songs/Tum Hi Ho.mpeg",
+      "singer": "Hariharan"
+    }
+  ]
+}
